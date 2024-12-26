@@ -14,7 +14,6 @@ __pycache__/
 output/
 *.json
 *.csv
-*.md
 
 # Python Specific
 *.egg-info
