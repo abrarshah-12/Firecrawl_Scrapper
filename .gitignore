@@ -1,0 +1,37 @@
+# Bytecode and Temporary files
+*.pyc
+*.pyo
+__pycache__/
+*.log
+*.swp
+*.swo
+*.DS_Store
+
+# Environment Files
+.env
+
+# Output Files
+output/
+*.json
+*.csv
+*.md
+
+# Python Specific
+*.egg-info
+build/
+dist/
+*.spec
+.venv/
+venv/
+env/
+
+# OS Specific
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Other
+*.tar.gz
+*.zip
