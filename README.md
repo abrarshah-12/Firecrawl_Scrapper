@@ -104,7 +104,7 @@ Output Data: The output is saved with timestamps in the filenames so you can tra
 
 Disclaimer
 
-This project is provided as-is and is intended for educational and personal use. Please use it responsibly, adhering to the terms of service for both Firecrawl and Google's Gemini API. Scraping data may be subject to website terms, so be aware of the restrictions of scraping sites you do not own.
+This project is provided as-is and is intended for educational and personal use. Please use it responsibly, adhering to the terms of service for both Firecrawl and Google Gemini API. Scraping data may be subject to website terms, so be aware of the restrictions of scraping sites you do not own.
 
 Contributing
 
